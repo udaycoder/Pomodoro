@@ -1,0 +1,1 @@
+This is a simple pomodoro timer created in the UWP platform. You can start the pomdoro clock, pause and reset it. Breaks in between and the number of sprints are all taken care of :).
